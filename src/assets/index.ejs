@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="redirect.xsl"?>
+
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:output method="html" omit-xml-declaration="yes" indent="yes"/>
+    <xsl:template match="/">
+        <html lang="en">
+            <head>
+                <meta charset="UTF-8"/>
+                <meta name="viewport"
+                      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+                <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+                <title>Hangman by FatCode</title>
+            </head>
+            <body>
+                <div id="preloader"></div>
+                <canvas id="hangman"></canvas>
+            </body>
+        </html>
+    </xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<script type="application/magic-basic">
+     Create New Game.
+     Learn Games Rules.    => https://en.wikipedia.org/wiki/Hangman_(game)
+     Use 3d Library.       => https://github.com/BabylonJS/Babylon.js/
+     Use Physics Library.  => https://github.com/lo-th/Oimo.js/
+     Use JSON for Words.   => words.json
+     Build Game.
+     Publish Game.         => https://hangman.fatcode.pl/
+     Abracadabra.
+</script>
