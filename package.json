@@ -37,7 +37,7 @@
     "@types/node": "^7.0.12",
     "@types/signals": "0.0.17",
     "autoprefixer": "^6.7.7",
-    "babylonjs": "^3.0.0-alpha",
+    "babylonjs": "3.0.0-alpha",
     "better-npm-run": "0.0.15",
     "cannon": "^0.6.2",
     "clean-webpack-plugin": "^0.1.16",
